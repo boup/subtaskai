@@ -1,0 +1,62 @@
+{
+    "Mercure":
+    {
+        "Chicken": 4,
+        "Porc": 4.5,
+        "Beaf": 3.0,
+        "Vegetable": 4.5,
+        "Salad Patato": 1.0
+    },
+    "Sheraton":
+    {
+        "Chicken": 3.0,
+        "Porc": 1.5,
+        "Beaf": 1.0,
+        "Vegetable": 2.0,
+        "Italian Pizza": 5.0,
+        "Rosol": 4.5
+    },
+    "Manekin":
+    {
+        "Chicken": 4.5,
+        "Porc": 5.0,
+        "Beaf": 4.5,
+        "Rosol": 1.0
+    },
+    "Bon appetit":
+    {
+        "Chicken": 3.5,
+        "Porc": 5.0,
+        "Beaf": 1.0,
+        "Rosol": 5.0,
+        "Pizza": 1.0
+    },
+    "Barabo":
+    {
+       "Porc": 2.5,
+       "Rosol": 4.5,
+       "Vegetable": 3.0
+    },
+    "Milano":
+    {
+        "Chicken": 5.0,
+        "Porc": 4.5,
+        "Beaf": 4.0,
+        "Vegetable": 2.5,
+        "Rosol": 1.0,
+        "Italian Pizza": 1.5
+    },
+    "Starbucks":
+    {
+       "Chicken": 3.5,
+       "Porc": 3.0,
+       "Beaf": 1.0,
+       "Vegetable": 4.5,
+       "Italian Pizza": 3.0
+    },
+    "Mac":
+    {
+       "Vegetable": 1.5,
+       "Italian Pizzas": 4.5
+    }
+}
